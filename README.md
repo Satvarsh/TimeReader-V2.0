@@ -2,7 +2,7 @@
 Analogue to Digital Conversion application with more enhancements to the original idea.
 
 ```
-This is the only clock reader that can account for all possibilities
+This is a clock reader that can account for all possibilities
 ```
 
 # Download SAMPLE Dataset from here:
